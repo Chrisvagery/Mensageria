@@ -1,0 +1,17 @@
+{
+  "name": "mensageria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumidor_envio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.6.8",
+    "mysql": "^2.18.1"
+  }
+}
